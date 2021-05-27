@@ -1,6 +1,6 @@
 import json
 
-f = open('graph.json', )
+f = open('Jakub_Hulek.json', )
 data = json.load(f)
 
 def sortFunc(a):
@@ -54,5 +54,5 @@ for a in adjacency_list:
     amount_of_edges.append(len(a))
 
 print(amount_of_edges)
-print(sum(a for a in amount_of_edges))
+print(len(incidence_matrix[0]))
 
