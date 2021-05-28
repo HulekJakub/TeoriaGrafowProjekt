@@ -6,7 +6,7 @@ W analizie grafu posłużyłem się kodem znajdującym się w pliku "analiza<spa
 
 ## Część programistyczna
 ### Wprowadzenie danych
-W pliku "graph.json" znajduje się przykładowa macierz incydencji dla następującego grafu nieskierowanego. 
+W pliku "graph.json" znajduje się przykładowa macierz incydencji dla następującego grafu skierowanego. 
 ![Przykładowy graf](ExampleGraph.png)  
 Tak wygląda macierz incydencji dla tego grafu  
 ![Przykładowa macierz incydencji](ExampleGraphMatrix.png)  
