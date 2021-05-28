@@ -2,7 +2,7 @@ import json
 
 f = open('Jakub_Hulek.json', )
 data = json.load(f)
-
+print(data)
 def sortFunc(a):
     return int(a)
 
