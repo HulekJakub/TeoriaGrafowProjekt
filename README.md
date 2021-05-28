@@ -1,4 +1,4 @@
-# TeoriaGrafowProjekt
+# Teoria Grafow Projekt Jakub Hulek
 
 ## Część analityczna
 Część analityczna znajduje się w pliku "JakubHulekTeoriaGrafowCzescAnalityczna.pdf".  
